@@ -1,8 +1,9 @@
 body 
 {
-	background: rgb(72, 36, 0) url(../Images/LinkTile.svg);
+	background: rgb(72, 36, 0) url(../Images/mark-rasmuson-yri82tuk2TQ-unsplash.jpg);
 	font-family: "Gentium Plus", "SBL Greek", "Palatino Linotype", Palatino, serif;
 	margin: 0;
+	background-size: cover; 
 }
 header
 {
