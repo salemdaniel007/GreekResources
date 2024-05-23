@@ -37,7 +37,7 @@ app, to look up the words in the list and access them on Perseus.
 
 These files are released under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
-For attribution purposes, credit the Open Scriptures Septuagint Project.
+For attribution purposes, credit the Open Scriptures Septuagint Project
 
 Updated August 23, 2019  
 August 15, 2016
